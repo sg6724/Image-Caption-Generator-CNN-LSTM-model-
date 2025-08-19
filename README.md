@@ -123,6 +123,3 @@ plt.show()
 * Use **Transformer-based Decoder (like GPT)** for more natural language fluency
 
 ---
-
-
-Would you like me to also **add a folder structure + usage steps (run on Kaggle Notebook/Colab/Local)** so it’s beginner-friendly when someone lands on your repo?
