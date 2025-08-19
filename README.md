@@ -3,7 +3,7 @@
 This project demonstrates how to generate natural language captions for images using **deep learning**.
 It combines a **CNN (VGG16)** for feature extraction with an **LSTM-based sequence model** for text generation.
 
-The dataset used is **Flickr8k**, downloaded via [kagglehub](https://pypi.org/project/kagglehub/).
+The dataset used is **Flickr8k**, downloaded via [kagglehub](https://www.kaggle.com/datasets/adityajn105/flickr8k).
 
 ---
 
